@@ -6,7 +6,8 @@ A Deep learning project for detecting distracted drivers using the Distracted Dr
 Distracted driving is a major concern that significantly impacts road safety. This project aims to develop a solution for detecting distracted drivers using machine learning techniques. 
 
 ## Dataset
-The Distracted Driver Dataset, available on Kaggle, serves as the foundation for our project.\
+The Distracted Driver Dataset, available on Kaggle, serves as the foundation for our project.
+The images can be downloaded from the below link\
 https://www.kaggle.com/competitions/state-farm-distracted-driver-detection
 
 ## Approach
