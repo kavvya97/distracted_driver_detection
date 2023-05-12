@@ -15,5 +15,12 @@ https://www.kaggle.com/competitions/state-farm-distracted-driver-detection
 - Semantic Segmentation of the images
 - Ensemble methods using pretrained models like VGGnet, Resnet and densenet.
 
+## Results
+Our models have achieved promising results in detecting distracted drivers. The ensembled method, combining VGGNET, DenseNet121, and ResNet12 models, has demonstrated the highest accuracy of 98%. These results showcase the effectiveness of our solution in addressing the issue of distracted driving.
 
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+We would like to express our gratitude to Kaggle for providing the Distracted Driver Dataset, which has been instrumental in the development of this project.
 
